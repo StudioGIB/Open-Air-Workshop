@@ -8,7 +8,9 @@ This project will
 # Brief
 
 Use : 
-
+1 Small indoor workspace (2.5mx 2.5m) consisting of shelvings for tools, a wall workbench, air circulation unit, storage box. (
+2 capacity to expand the roofed space and occupy a larger area 2 to three times by frame (through roof expansion / tensile structures / mobile partitions ) and work around a proper worktable 
+3 
 
 
 
