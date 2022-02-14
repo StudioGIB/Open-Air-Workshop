@@ -7,12 +7,20 @@ This project will
 
 # Brief
 
-Use : 
-1 Small indoor workspace (2.5mx 2.5m) consisting of shelvings for tools, a wall workbench, air circulation unit, storage box. (
-2 capacity to expand the roofed space and occupy a larger area 2 to three times by frame (through roof expansion / tensile structures / mobile partitions ) and work around a proper worktable 
-3 
+### Use : 
+**1)** Small indoor workspace (2.5mx 2.5m) consisting of shelvings for tools, a wall workbench, air circulation unit, storage box. 
+
+**2)** capacity to expand the roofed space and occupy a larger area 2 to three times by frame (through roof expansion / tensile structures / mobile partitions ) and work around a proper worktable.
+
+**3)** At least one removable/sliding/rotating partition in order to work on big sizes, circulate air 
+
+**4)** Lightweight / buildable according to the current law 
+
+ 
+### Architecture - Ethos - Values :
 
 
+### Materials
 
 
 
@@ -26,8 +34,6 @@ As we're mostly self-sustained, in order to keep our research free and running, 
 
 # Roadmap
 V.0.1  - March 2022 -  Project start - Concept Phase
-
-
 
 V.0.8 - V.1.0 - Fall 2022
 
