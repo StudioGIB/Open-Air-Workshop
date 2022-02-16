@@ -8,15 +8,21 @@ This project will
 # Brief
 
 ### Use : 
-**1)** Small indoor workspace (2.5mx 2.5m) consisting of shelvings for tools, a wall workbench, air circulation unit, storage box. 
+**1)** Small indoor workspace (2.5mx 2.5m) consisting of shelvings for tools, a wall workbench, air circulation unit (optional), storage box. 
 
 **2)** capacity to expand the roofed space and occupy a larger area 2 to three times by frame (through roof expansion / tensile structures / mobile partitions ) and work around a proper worktable.
 
 **3)** At least one removable/sliding/rotating partition in order to work on big sizes, circulate air 
 
-**4)** Lightweight / buildable according to the current law 
+**4)** Mechanical air extraction or adequate natural ventilation system.
 
- 
+### Energy : 
+  **1)** Solar energy panels for lightning and/or for charging tools' batteries  
+  
+  **2)** Optional: Traditional Grid connection for power tools
+
+### Cost 
+**Cost limit at 5000 €**
 ### Architecture - Ethos - Values :
 
 
