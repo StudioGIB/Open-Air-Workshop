@@ -2,7 +2,7 @@
 
 A minimal expansible garden workshop
 
-This project will 
+This projects is an attempt do build up a minimal lightweight workshop, housing tools and working on small projects, with the capacity to extend, following a proper design intention, by modularity, mechanical ghizmos or tensile structures. The general idea is to design a minimal toolshed that transforms/morphs/rotates and unfolds into a proper indoor/outdoor workshop. All this, considering the optimal work environment for tools and raw materials (e.g. humidity), airflows, overall dimensions, feasability, material's aging and costs 
 
 
 # Brief
@@ -22,11 +22,18 @@ This project will
   **2)** Optional: Traditional Grid connection for power tools
 
 ### Cost 
-**Cost limit at 5000 €**
+**Cost limit capped at 5000 €**
+
+### Materials and techniques
+
+
+
+
+
 ### Architecture - Ethos - Values :
 
 
-### Materials
+
 
 
 
