@@ -2,7 +2,7 @@
 
 A minimal expansible garden workshop
 
-This projects is an attempt do build up a minimal lightweight workshop, housing tools and working on small projects, with the capacity to extend, following a proper design intention, by modularity, mechanical ghizmos or tensile structures. The general idea is to design a minimal toolshed that transforms/morphs/rotates and unfolds into a proper indoor/outdoor workshop. All this, considering the optimal work environment for tools and raw materials (e.g. humidity), airflows, overall dimensions, feasability, material's aging and costs 
+This projects is an attempt to build up a minimal lightweight workshop, to house tools and to work on small projects, with the capacity to extend, following a proper design intention, by modularity, mechanical ghizmos or tensile structures. The general idea is to design a minimal toolshed that transforms/morphs/rotates and unfolds into a proper indoor/outdoor workshop. All this, considering the optimal work environment for tools and raw materials (e.g. humidity), airflows, overall dimensions, feasability, material's aging and costs. 
 
 
 # Brief
@@ -26,6 +26,7 @@ This projects is an attempt do build up a minimal lightweight workshop, housing 
 
 ### Materials and techniques
 
+Wooden structure, as the materials have to be assembled on site.
 
 
 
@@ -46,9 +47,10 @@ All of GIB's projects are open-source. That is, during the development of any on
 As we're mostly self-sustained, in order to keep our research free and running, we're on [Patreon](https://www.patreon.com/StudioGIB) too, where you can support us with your contribute.
 
 # Roadmap
-V.0.1  - March 2022 -  Project start - Concept Phase
-
-V.0.8 - V.1.0 - Fall 2022
+V0.1  - March 2022 -  Project start - Concept Phase
+V0.3  - April 2022 -  Concept definition
+V0.7  - July  2022 -  Prototype Phase
+V.0.8 - V.1.0 - Fall 2022 - Build Phase - Release 
 
 
 # Download 
