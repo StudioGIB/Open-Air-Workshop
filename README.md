@@ -17,7 +17,7 @@ This projects is an attempt to build up a minimal lightweight workshop, to house
 **4)** Mechanical air extraction or adequate natural ventilation system.
 
 ### Energy : 
-  **1)** Solar energy panels for lightning and/or for charging tools' batteries  
+  **1)** Solar energy panels for lightning and/or for charging tools  
   
   **2)** Optional: Traditional Grid connection for power tools
 
@@ -26,12 +26,12 @@ This projects is an attempt to build up a minimal lightweight workshop, to house
 
 ### Materials and techniques
 
-Wooden structure, as the materials have to be assembled on site.
+Lightweight materials, as the shed will have to be assembled on site. Concerning this, glass it is unlikely it will be used.
 
 
 
 
-### Architecture - Ethos - Values :
+### Architecture - Ethos - Ecology :
 
 
 
@@ -48,8 +48,11 @@ As we're mostly self-sustained, in order to keep our research free and running, 
 
 # Roadmap
 V0.1  - March 2022 -  Project start - Concept Phase
+
 V0.3  - April 2022 -  Concept definition
+
 V0.7  - July  2022 -  Prototype Phase
+
 V.0.8 - V.1.0 - Fall 2022 - Build Phase - Release 
 
 
