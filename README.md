@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/97519980/156887406-febee5df-0269-461e-b0c8-fe1b03a36dc7.jpg" alt="Sublime's custom image"/>
 </p>
 
-![tumblr_nl61zz2vL51uq8rcno1_640](https://user-images.githubusercontent.com/97519980/156887406-febee5df-0269-461e-b0c8-fe1b03a36dc7.jpg)
 # About Open-Air-Workshop
 
 A minimal expansible garden workshop
