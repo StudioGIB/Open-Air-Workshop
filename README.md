@@ -31,7 +31,7 @@ This projects is an attempt to build up a minimal lightweight workshop, to house
 
 ### Materials and techniques
 
-Lightweight materials, as the shed will have to be assembled on site. Concerning this, glass it is unlikely it will be used.
+Lightweight materials, as the shed will have to be assembled on site. Concerning this, it is unlikely glass will be used.
 
 
 
