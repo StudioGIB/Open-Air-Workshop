@@ -30,7 +30,9 @@ This projects is an attempt to build up a minimal lightweight workshop, to house
 
 ### Materials and techniques
 
-Lightweight materials, as the shed will have to be assembled on site. Concerning this, it is unlikely glass will be used.
+Cost, performance and origin of the materials will be taken highly in account. In order to stay in a 5k price cap we'll need to optimize the geometries and the tech used in order to protect the elements from the weather wear.
+Standardization of the joints/frames is another goal. Ideally we'd like to "assemble" as many completed pieces on site as possible.
+Transparent partitions will be an issue, since glass will be too expensive to be employed and Polycarbonate sheets performance are not stellar concerning temperature transmission and weathering.
 
 
 <p align="center">
