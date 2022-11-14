@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/97519980/156887406-febee5df-0269-461e-b0c8-fe1b03a36dc7.jpg" alt="Sublime's custom image"/>
-</p>
-<p align="center">
--Reference- Rpbw urban regeneration workshop </p>
+
+
 # About Open-Air-Workshop
 
-A minimal expansible garden workshop
+![STUDIOGIB_HERO_WORKSHOP_01](https://user-images.githubusercontent.com/97519980/201696131-91ecffb5-8a57-4521-abb5-6ba1bc379059.jpg)
+<p align="center">A minimal expansible garden workshop </p>
 
 This projects is an attempt to build up a minimal lightweight workshop, to house tools and to work on small projects, with the capacity to extend, following a proper design intention, by modularity, mechanical ghizmos or tensile structures. The general idea is to design a minimal toolshed that transforms/morphs/rotates and unfolds into a proper indoor/outdoor workshop. All this, considering the optimal work environment for tools and raw materials (e.g. humidity), airflows, overall dimensions, feasability, material's aging and costs. 
+
 
 
 # Brief
@@ -34,6 +33,11 @@ This projects is an attempt to build up a minimal lightweight workshop, to house
 Lightweight materials, as the shed will have to be assembled on site. Concerning this, it is unlikely glass will be used.
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97519980/156887406-febee5df-0269-461e-b0c8-fe1b03a36dc7.jpg" alt="Sublime's custom image"/>
+</p>
+<p align="center">
+-Reference- Rpbw urban regeneration workshop </p>
 
 
 <### Architecture - Ethos - Ecology : >
