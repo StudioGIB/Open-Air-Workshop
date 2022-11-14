@@ -15,6 +15,8 @@ This projects is an attempt to build up a minimal lightweight workshop, to house
 **1)** Small indoor workspace (2.5mx 2.5m) consisting of shelvings for tools, a wall workbench, air circulation unit (optional), storage box. 
 
 **2)** capacity to expand the roofed space and occupy a larger area 2 to three times by frame (through roof expansion / tensile structures / mobile partitions ) and work around a proper worktable.
+  This is mostly due to local (italian) regulations: there are strict constraints on what defines a building, ergo built volumes. 
+  Thus the project will follow law constraints in order not to results as an additional new construction.
 
 **3)** At least one removable/sliding/rotating partition in order to work on big sizes, circulate air 
 
