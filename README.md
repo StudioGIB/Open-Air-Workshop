@@ -1,8 +1,9 @@
 
 
+
 # About Open-Air-Workshop
 
-![STUDIOGIB_HERO_WORKSHOP_01](https://user-images.githubusercontent.com/97519980/201696131-91ecffb5-8a57-4521-abb5-6ba1bc379059.jpg)
+![studiogib_workshop_concepts_01_animated](https://user-images.githubusercontent.com/97519980/202483379-4e8661e6-302c-4586-bece-3ce136f552f6.gif)
 <p align="center">A minimal expansible garden workshop </p>
 
 This projects is an attempt to build up a minimal lightweight workshop, to house tools and to work on small projects, with the capacity to extend, following a proper design intention, by modularity, mechanical ghizmos or tensile structures. The general idea is to design a minimal toolshed that transforms/morphs/rotates and unfolds into a proper indoor/outdoor workshop. All this, considering the optimal work environment for tools and raw materials (e.g. humidity), airflows, overall dimensions, feasability, material's aging and costs. 
