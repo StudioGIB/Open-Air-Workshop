@@ -61,13 +61,13 @@ All of GIB's projects are open-source. That is, during the development of any on
 As we're mostly self-sustained, in order to keep our research free and running, we're on [Patreon](https://www.patreon.com/StudioGIB) too, where you can support us with your contribute.
 
 # Roadmap
-V0.1  - March 2022 -  Project start - Concept Phase
+V0.1  - Oct 2022 -  Project start - Concept Phase
 
-V0.3  - April 2022 -  Concept definition
+V0.3  - Feb 2023 -  Concept definition
 
-V0.7  - July  2022 -  Prototype Phase
+V0.7  - May  2023 -  Prototype Phase
 
-V.0.8 - V.1.0 - Fall 2022 - Build Phase - Release 
+V.0.8 - V.1.0 - Summer 2023 - Build Phase - Release 
 
 
 # Download 
